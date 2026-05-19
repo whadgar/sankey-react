@@ -4,6 +4,16 @@ An interactive, browser-based Sankey diagram builder. Paste data straight from E
 
 ---
 
+## Screenshots
+
+### Main Diagram View
+![Main Page](docs/screenshots/UI-Page1-Main-Page.png)
+
+### Manage Connections
+![Manage Connections](docs/screenshots/UI-Page-2-Manage-Connection.png)
+
+---
+
 ## Quick Start
 
 ```bash
